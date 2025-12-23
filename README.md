@@ -9,6 +9,8 @@ This project involved conducting a **comparative efficiency analysis** for a boa
 - Excel (Spreadsheet Modeling, Linear Programming (LP))
 <br />
 
+[Project Excel File](https://github.com/jordanbolling/Data-Envelopment-Analysis-DEA-Analysis-Using-Excel/blob/main/DEA%20Excel.xlsx)
+
 #### **Project Workflow**
 
 A linear equation can be constructed from the objective. For example, Delancey’s maximum relative efficiency (MRE) can be found through identifying the decision variables and implementing an objective function.
@@ -98,6 +100,7 @@ Additionally, an efficiency score of 1 for the other schools doesn’t mean that
 <br/>
 
 **Recommendations for Delancey**
+
 •	The average education level of parents is the highest and therefore, many of them are college graduates. This might indicate that these parents are encouraging the following.
 •	Children to focus on STEM related subjects by acting as role models in this regard even when the children are young (Gülhan,2023). This is alluded to by the school’s below average performance in History.
 •	Research suggests that children from wealthier backgrounds tend to take up more extracurricular activities such as music lessons (Social Mobility Commission,2019). This might shift the focus of younger kids slightly away from their studies and alludes to Delancey’s below average SOLs. 
