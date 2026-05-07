@@ -35,7 +35,7 @@ These are considered by the board as the inputs and outputs as the relative effi
 
 The following objective function to find Delancey’s MRE.
 
-Maximize Z = 81X4 + 73X5 + 69X6
+Maximise Z = 81X4 + 73X5 + 69X6
 
 These values are used because the board ultimately considers the outputs SOLs for Delancey.
 
@@ -105,7 +105,7 @@ Additionally, an efficiency score of 1 for the other schools doesn’t mean that
 •	Children to focus on STEM related subjects by acting as role models in this regard even when the children are young (Gülhan,2023). This is alluded to by the school’s below average performance in History.
 •	Research suggests that children from wealthier backgrounds tend to take up more extracurricular activities such as music lessons (Social Mobility Commission,2019). This might shift the focus of younger kids slightly away from their studies and alludes to Delancey’s below average SOLs. 
 
-Delancey must invest its well-above average available funds in creating an enivronment that encourages an interest in history and learning in general and even alter the syllabus so it highlights the importance of learning history. They can also invest these funds in AI-powered virtual classrooms that better tailor to a student’s needs as it analyzes each student’s characteristics, which is especially useful in special needs education, and can make recommendations for curriculums, which optimizes an education system (fintelics,2023).
+Delancey must invest its well-above average available funds in creating an enivronment that encourages an interest in history and learning in general and even alter the syllabus so it highlights the importance of learning history. They can also invest these funds in AI-powered virtual classrooms that better tailor to a student’s needs as it analyses each student’s characteristics, which is especially useful in special needs education, and can make recommendations for curriculums, which optimises an education system (fintelics,2023).
 <br/>
 
 **Recommendations for the board**
